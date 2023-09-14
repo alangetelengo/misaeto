@@ -1,0 +1,11 @@
+{
+    "name": "Referentiel",
+    "alias": "referentiel",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Referentiel\\Providers\\ReferentielServiceProvider"
+    ],
+    "files": []
+}
